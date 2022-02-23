@@ -1,3 +1,3 @@
 # UIKit + CoreMotion app
-[App screenshot](motion-cube.png)
+![Alt text](motion-cube.png "App screenshot")
 
