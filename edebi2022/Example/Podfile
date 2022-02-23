@@ -1,0 +1,6 @@
+use_frameworks!
+target 'edebi2022_Tests' do
+  pod 'edebi2022', :path => '../'
+  
+  
+end

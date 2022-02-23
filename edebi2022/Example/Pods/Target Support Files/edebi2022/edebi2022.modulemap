@@ -1,0 +1,6 @@
+framework module edebi2022 {
+  umbrella header "edebi2022-umbrella.h"
+
+  export *
+  module * { export * }
+}

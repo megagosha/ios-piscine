@@ -1,3 +1,3 @@
 # Map for 42 campuses
-[App map screenshot](kanto1.png)
-[App list screenshot](kanto2.png)
+<img src="https://github.com/megagosha/ios-piscine/blob/main/kanto/kanto1.png" width=30%>
+<img src="https://github.com/megagosha/ios-piscine/blob/main/kanto/kanto2.png" width=30%>

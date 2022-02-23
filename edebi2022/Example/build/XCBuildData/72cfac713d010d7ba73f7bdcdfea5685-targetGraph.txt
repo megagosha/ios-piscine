@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+edebi2022 in Pods, no dependencies
+Pods-edebi2022_Tests in Pods, depends on:
+edebi2022 in Pods (explicit)

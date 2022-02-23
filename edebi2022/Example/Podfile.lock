@@ -1,0 +1,16 @@
+PODS:
+  - edebi2022 (0.1.0)
+
+DEPENDENCIES:
+  - edebi2022 (from `../`)
+
+EXTERNAL SOURCES:
+  edebi2022:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  edebi2022: b50c9bf015fffe8604ed01bb8169b072b1caca47
+
+PODFILE CHECKSUM: b72b502489eb011ac056e6242204840bdce0d738
+
+COCOAPODS: 1.11.2
