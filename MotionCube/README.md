@@ -1,3 +1,2 @@
 # UIKit + CoreMotion app
-![Alt text](motion-cube.png "App screenshot"){:width="500px"}.
-
+<img src="https://github.com/megagosha/ios-piscine/blob/main/MotionCube/motion-cube.png" width=50%>
